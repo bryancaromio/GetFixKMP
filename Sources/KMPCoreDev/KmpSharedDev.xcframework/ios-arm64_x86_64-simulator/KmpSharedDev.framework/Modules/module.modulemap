@@ -1,0 +1,6 @@
+framework module KmpSharedDev {
+    umbrella header "KmpSharedDev.h"
+
+    export *
+    module * { export * }
+}

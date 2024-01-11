@@ -1,0 +1,8 @@
+framework module KmpShared {
+    umbrella header "KmpShared.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
